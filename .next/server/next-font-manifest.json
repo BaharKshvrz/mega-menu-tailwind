@@ -1,0 +1,10 @@
+{
+  "pages": {},
+  "app": {
+    "/home/bahar/bahar-files/complete-react-zero-to-mastery/project/mega-menu-tailwind/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Vazirmatn\",\"arguments\":[{\"subsets\":[\"arabic\"]}],\"variableName\":\"vazirFont\"}": [
+      "static/media/04a7bf91ce447e64-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
